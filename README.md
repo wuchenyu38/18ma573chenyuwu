@@ -7,6 +7,6 @@ __First Homework__
 
 __Second Homework__
 - [SFD](src/SFD_operator.ipynb)
-- [SFO_Convergence](src/FD_operator_with_higher_order_convergence.ipynb)
+- [SFO_Convergence](src/FD_operator_with_higher_order_convergence.ipynb)<br/>
 __Third Homework__
 - [Implied_Volatility](src/Implied_Volatility.ipynb)
