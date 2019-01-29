@@ -11,4 +11,4 @@ __Second Homework__
 
 __Third Homework__
 - [Implied_Volatility](src/Implied_Volatility.ipynb)
-- [payoff diagram of butterfly](src/payoff_diagram_of_butterfly)
+- [payoff diagram of butterfly](src/Payoff_diagram.ipynb)
