@@ -31,7 +31,7 @@ Put-call parity will be useful:
 import numpy as np
 import scipy.stats as ss
 
-import european_options_class
+import european_option_class
 
 """Next, we create the gbm class, which is 
 determined by three parameters. We shall initialize it
