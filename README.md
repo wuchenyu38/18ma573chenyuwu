@@ -20,3 +20,8 @@ __Fourth Homework__
 __Fifth Homework__
 - [Monte Carlo Proof](src/Monte_Carlo_Proof.ipynb)
 - [Monte Carlo Plot](src/Monte_Carlo_Plot_RMSE.ipynb)
+
+__Sixth Homework__
+- [Definite Integral](src/Definite_Integral.ipynb)
+- [Important Sampling](src/Important_Sampling.ipynb)
+- [bsm aac exact Sampling](src/bsm_aac_exact.ipynb)
