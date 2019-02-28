@@ -97,7 +97,7 @@ def bsm_arithmetic_asian_exact_sample(self,otype,strike,maturity,num_step,num_pa
     MC_A=[]
     for i in range(num_path):
         t,W=BM_gen(0.,maturity,num_step)
-        A=(1/num_step)*(sum(s0*np.exp((r-(1/2)*sigma**2)*maturity+sigma*W))-s0)
+        A=(1/num_step)*(sum(s0*np.exp((r-(1/2)*sigma**2)*maturity+sigma*W)))
         option1=VanillaOption(maturity=maturity,otype=otype,strike=strike)
         MC_A.append(VanillaOption.payoff(option1,A))
     Asion_price=np.exp(-r*maturity)*sum(MC_A)/num_path
