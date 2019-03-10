@@ -104,4 +104,21 @@ def bsm_arithmetic_asian_exact_sample(self,otype,strike,maturity,num_step,num_pa
     return Asion_price
 Gbm.bsm_arithmetic_asian_exact_sample = bsm_arithmetic_asian_exact_sample
 
-
+def bsm_option_payoff_generators(self, num_step, num_paths):
+    sigma = self.vol_ratio
+    s0 = self.init_state
+    r=self.drift_ratio
+    
+    otype = vanilla_option.otype
+    k = vanilla_option.strike
+    maturity = vanilla_option.maturity
+    
+    A=0
+    MC_A=[]
+    option1=VanillaOption(maturity=maturity,otype=otype,strike=strike)
+    
+    for i in range(num_path):
+        t,W=BM_gen(0.,maturity,num_step)
+        gsp=bsm_arithmetic_asian_exact_sample(Gbm1, otype, k, maturity, num_step)
+        A=(1/num_step)*(sum(s0*np.exp((r-(1/2)*sigma**2)*maturity+sigma*W)))
+        MC_A.append(VanillaOption.payoff(option1,A))
