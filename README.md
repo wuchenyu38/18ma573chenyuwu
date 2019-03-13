@@ -25,3 +25,13 @@ __Sixth Homework__
 - [Definite Integral](src/Definite_Integral.ipynb)
 - [Important Sampling](src/Important_Sampling.ipynb)
 - [bsm aac exact Sampling](src/bsm_aac_exact.ipynb)
+
+__Seventh Homework__
+- [Correlation with AAC](src/Correlation_aac.ipynb)
+- [Knock-In](src/Knock_in.ipynb)
+- [Vasicek Calibration](src/Vasicek_Calibration.ipynb)
+
+__Eighth Homework__
+- [Hestion Model](src/Heston_Model.ipynb)
+- [Fourier Method](src/Fourier_Method.ipynb)
+- [Characteristic Functions](src/characteristic_functions.ipynb)
