@@ -35,3 +35,6 @@ __Eighth Homework__
 - [Hestion Model](src/Heston_Model.ipynb)
 - [Fourier Method](src/Fourier_Method.ipynb)
 - [Characteristic Functions](src/characteristic_functions.ipynb)
+
+__Tenth Homework__
+- [FTCS and its stability in heat equation](src/FTCS_and_Stability_in_a_Heat_Equation)
