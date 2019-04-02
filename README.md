@@ -39,3 +39,4 @@ __Eighth Homework__
 __Tenth Homework__
 - [FTCS and its stability in heat equation](src/FTCS_and_Stability_in_a_Heat_Equation.ipynb)
 - [FTCS stability](src/FTCS_Stability.ipynb)
+- [2D Ito Formula](src/2_Dimensional_Ito.ipynb)
