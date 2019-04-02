@@ -37,4 +37,5 @@ __Eighth Homework__
 - [Characteristic Functions](src/characteristic_functions.ipynb)
 
 __Tenth Homework__
-- [FTCS and its stability in heat equation](src/FTCS_and_Stability_in_a_Heat_Equation)
+- [FTCS and its stability in heat equation](src/FTCS_and_Stability_in_a_Heat_Equation.ipynb)
+- [FTCS stability](src/FTCS_Stability.ipynb)
