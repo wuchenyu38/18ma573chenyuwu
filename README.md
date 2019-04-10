@@ -43,4 +43,4 @@ __Tenth Homework__
 
 __Eleventh Homework__
 - [CRR Model](src/CRR_Model.ipynb)
-- [BTCS](src/BTCS_and_Stabilit.ipynb)
+- [BTCS](src/BTCS_and_stability.ipynb)
