@@ -42,5 +42,5 @@ __Tenth Homework__
 - [2D Ito Formula](src/2_Dimensional_Ito.ipynb)
 
 __Eleventh Homework__
-- [RCC Model](src/FTCS_and_Stability_in_a_Heat_Equation.ipynb)
-- Heat Equation](src/FTCS_and_Stability_in_a_Heat_Equation.ipynb)
+- [CRR Model](src/CRR_Model.ipynb)
+- [BTCS](src/BTCS_and_Stabilit.ipynb)
