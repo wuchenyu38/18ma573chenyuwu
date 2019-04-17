@@ -44,3 +44,6 @@ __Tenth Homework__
 __Eleventh Homework__
 - [CRR Model](src/CRR_Model.ipynb)
 - [BTCS](src/BTCS_and_stability.ipynb)
+
+_12th Homework_
+- [Digital Option](src/Importance_sampling_with_digital_option.ipynb)
